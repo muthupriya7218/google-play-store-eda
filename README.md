@@ -45,20 +45,8 @@ google-playstore-eda/
 ├── README.md # Project documentation
 ├── .gitignore # Ignore rules for repo cleanliness
 
-## Byte-compiled / optimized files
-__pycache__/
-*.pyc
+## 🧹 Repository Cleanliness
 
-## Jupyter Notebook checkpoints
-.ipynb_checkpoints/
+A `.gitignore` file is included to avoid committing unnecessary files such as virtual environments, system files, and Jupyter checkpoints.
 
-# Virtual environment
-venv/
-
-## VS Code settings
-.vscode/
-
-## OS/System files
-.DS_Store
-Thumbs.db
 
