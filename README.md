@@ -45,20 +45,20 @@ google-playstore-eda/
 ├── README.md # Project documentation
 ├── .gitignore # Ignore rules for repo cleanliness
 
-# Byte-compiled / optimized files
+## Byte-compiled / optimized files
 __pycache__/
 *.pyc
 
-# Jupyter Notebook checkpoints
+## Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
 # Virtual environment
 venv/
 
-# VS Code settings
+## VS Code settings
 .vscode/
 
-# OS/System files
+## OS/System files
 .DS_Store
 Thumbs.db
 
