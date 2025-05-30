@@ -42,8 +42,8 @@ This portfolio project explores and analyzes the Google Play Store dataset to de
 google-playstore-eda/
 ├── data/ # Cleaned dataset
 ├── notebooks/ # Jupyter notebook
-├── README.md # Project documentation
 ├── .gitignore # Ignore rules for repo cleanliness
+├── README.md # Project documentation
 
 ## 🧹 Repository Cleanliness
 
